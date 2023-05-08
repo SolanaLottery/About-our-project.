@@ -1,1 +1,1 @@
-# About our project.
+# Solana Lottery
